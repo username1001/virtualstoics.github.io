@@ -193,6 +193,11 @@ version 1.4, available at [http://contributor-covenant.org/version/1/4][version]
 [homepage]: http://contributor-covenant.org
 [version]: http://contributor-covenant.org/version/1/4/
 
+This CONTRIBUTING.md file is attributed to
+<a href="https://github.com/JacksonBates">Jackson Bates</a>. The original can be
+found here:
+https://github.com/mrslwiseman/fcc-directory/blob/master/CONTRIBUTING.md.
+
 ## Any questions?
 
 Could this CONTRIBUTING file be improved? Was anything inaccurate or unclear?
